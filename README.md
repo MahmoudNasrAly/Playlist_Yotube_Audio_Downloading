@@ -25,11 +25,11 @@ The script will download all audio tracks from the playlist as MP3 files.
 
 You need to install FFmpeg. Here's how to install it on different operating systems:
 Windows:
-
 Download from official FFmpeg site
 Add to system PATH
 Or use: winget install ffmpeg
-macOS:
+
+## macOS:
 ```
 brew install ffmpeg
 ```
