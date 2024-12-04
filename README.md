@@ -1,6 +1,6 @@
 # Playlist_Yotube_Audio_Downloading
 
-Key features of this script:
+Key features of this project:
 
 Uses yt-dlp for robust playlist downloading
 Converts downloaded files to high-quality MP3
@@ -33,12 +33,12 @@ Or use: winget install ffmpeg
 ```
 brew install ffmpeg
 ```
-Linux (Ubuntu/Debian):
+## Linux (Ubuntu/Debian):
 ```
 sudo apt update
 sudo apt install ffmpeg
 ```
-Linux (Fedora):
+## Linux (Fedora):
 ```
 sudo dnf install ffmpeg
 ```
@@ -55,7 +55,7 @@ Troubleshooting tips:
 Verify FFmpeg installation with ffmpeg -version
 Ensure YouTube playlist URL is correct
 
-## if you stillhave a problem  on Windows:
+## if you still have a problem  on Windows:
 
 Download FFmpeg:
 
